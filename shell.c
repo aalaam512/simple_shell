@@ -189,7 +189,6 @@ int main(int ac, char **av)
 				free(argv);
 			}
 		}
-		memory_handler(0, &buff);
 	}
 	return (0);
 }
